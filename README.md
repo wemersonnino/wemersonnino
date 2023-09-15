@@ -1,4 +1,4 @@
-# Meu Perfil
+![Imagem de Boas Vindas](./Black_Technology_blog_Banner.gif)
 
 ## Quem sou eu?
 #### olá 👋
